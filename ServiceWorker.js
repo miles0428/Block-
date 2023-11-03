@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-my_first_game-beta";
 const contentToCache = [
-    "Build/Blocker~~~.loader.js",
-    "Build/Blocker~~~.framework.js",
-    "Build/Blocker~~~.data",
-    "Build/Blocker~~~.wasm",
+    "Build/Blocker~.loader.js",
+    "Build/Blocker~.framework.js.unityweb",
+    "Build/Blocker~.data.unityweb",
+    "Build/Blocker~.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
