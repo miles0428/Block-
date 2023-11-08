@@ -14,8 +14,9 @@ The core game play method is jump, get block, and put floor to survive
 |Space|jump|
 |Esc|stop and resume the game|
 
-### Lisence 
+### LICENSE
 Apache 2.0 
+
 
 ### PlayPage 
 https://miles0428.github.io/Block-/
