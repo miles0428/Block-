@@ -1,0 +1,7 @@
+// This code block does not contain any CSS or HTML code.
+// It is recommended to use linguist-documentation to document code that does not contain CSS or HTML.
+
+*.js linguist-detectable=false
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+
